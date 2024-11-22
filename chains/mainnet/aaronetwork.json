@@ -1,0 +1,22 @@
+{
+    "chain_name": "aaron",
+    "registry_name": "Aaron Network",
+    "api": [
+        {"provider": "Aaron Network", "address": "http://localhost:1317"}
+    ],
+    "rpc": [
+        {"provider": "Aaron Network", "address": "http://localhost:26657"}
+    ],
+    "sdk_version": "0.50",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "aaron",
+    "logo": "/logos/cosmos.svg",
+    "assets": [{
+        "base": "uaaron",
+        "symbol": "AARON",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/cosmos.svg"
+    }]
+}
