@@ -1,6 +1,6 @@
 {
-    "chain_name": "aaron",
-    "registry_name": "Aaron Network",
+    "chain_name": "Aaron Network",
+    "registry_name": "aaronetwork",
     "api": [
         {"provider": "Aaron Network", "address": "https://mainnet-api.aaronetwork.xyz/"}
     ],
@@ -11,12 +11,11 @@
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "aaron",
-    "logo": "/logos/cosmos.svg",
+    "logo": "https://raw.githubusercontent.com/aaronetwork/logo/refs/heads/main/aaron-logo-256x256.png",
     "assets": [{
         "base": "uaaron",
         "symbol": "AARON",
         "exponent": "6",
-        "coingecko_id": "",
-        "logo": "/logos/cosmos.svg"
+        "logo": "https://raw.githubusercontent.com/aaronetwork/logo/refs/heads/main/aaron-logo-256x256.png"
     }]
 }
