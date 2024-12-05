@@ -2,10 +2,12 @@
     "chain_name": "Aaron Network",
     "registry_name": "aaronetwork",
     "api": [
-        {"provider": "Aaron Network", "address": "https://mainnet-api.aaronetwork.xyz/"}
+        {"provider": "Aaron Network", "address": "https://mainnet-api.aaronetwork.xyz"},
+        {"provider": "AN developer team", "address": "http://212.34.129.79:1317"}
     ],
     "rpc": [
-        {"provider": "Aaron Network", "address": "https://mainnet-rpc.aaronetwork.xyz/"}
+        {"provider": "Aaron Network", "address": "https://mainnet-rpc.aaronetwork.xyz"},
+        {"provider": "AN developer team", "address": "http://212.34.129.79:26657"}
     ],
     "sdk_version": "0.50",
     "coin_type": "118",
